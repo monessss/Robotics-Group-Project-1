@@ -21,6 +21,33 @@ The project is based on the RoboMaster platform and mainly includes robot basic 
 
 ![Our Robot](assets/0c069241db28471bfaeea73f1a08fec.jpg)
 
+
+## Demo Videos
+
+### Racing Demo
+
+The following video shows our robot's racing performance.
+
+> **Note:** This racing video was re-recorded after the official competition. Due to changes in lighting conditions during the re-recording, the robot may appear slightly unstable while moving. However, during the actual competition, the robot performed very stably.
+
+
+
+https://github.com/user-attachments/assets/69fa8db8-ebe8-405f-8fdd-7682094f4671
+
+
+
+### Final Task Demo
+
+The following video shows our robot's performance in the final task of the RoboMaster 1 course.（Because our group had already received an extra 15 points in the racing project, we did not implement obstacle avoidance or line-break recovery in the final task.）
+
+
+
+https://github.com/user-attachments/assets/2322622a-839e-49e6-a48c-f08588855751
+
+---
+
+
+
 ## Team Members
 
 This project was completed by **Group 20** of the **2024 Sino-Foreign Cooperative Computer Science Program** at **Ocean University of China**.
@@ -79,6 +106,30 @@ If the repository continues to be updated, it can also serve as a development re
 ## 我们的机器人
 
 ![我们的机器人](assets/0c069241db28471bfaeea73f1a08fec.jpg)
+
+
+## 演示视频
+
+### 竞速任务展示
+
+以下视频展示了我们机器人在竞速任务中的运行效果。
+
+> **说明：** 本次展示的竞速视频为正式比赛结束后重新录制。由于重录时现场光线条件发生变化，导致机器人在行驶过程中出现了一定程度的不稳定现象。但在实际比赛过程中，机器人运行状态非常稳定。
+
+
+
+https://github.com/user-attachments/assets/7fda04ad-efe9-461a-97b1-41e7d2bf0648
+
+
+
+### 最终大任务展示
+
+以下视频展示了我们机器人在 RoboMaster 1 课程最终大任务中的运行效果。（由于本小组已经在竞速项目中获得了额外十五分的加分，所以在大任务中没有完成避障和断线的实现）
+
+
+
+https://github.com/user-attachments/assets/57f899d0-a35e-4ef9-a506-f0110e253e5d
+
 
 ## 项目成员
 
